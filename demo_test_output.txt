@@ -1,0 +1,280 @@
+
+Data simulasi awal berhasil dimuat.
+Gunakan menu untuk mencoba empat struktur data.
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: 
+========== DAFTAR PENGGUNA ==========
+ID	Nama		Kontak		Skill Utama
+-------------------------------------------------------------
+U001	Rani		081200000001	Desain Grafis
+U002	Budi		081200000002	Gitar
+U003	Sinta		081200000003	Bahasa Inggris
+U004	Dimas		081200000004	Python
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: Masukkan ID pengguna: 
+Skill milik Rani (U001)
+1. S001 - Desain Grafis
+2. S002 - Editing Video
+3. S003 - Fotografi
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: 
+========== ANTREAN PERMINTAAN BARTER (FIFO) ==========
+1. Q001 | Rani -> Budi | Menawarkan: Desain Grafis | Meminta: Gitar
+2. Q002 | Sinta -> Dimas | Menawarkan: Bahasa Inggris | Meminta: Python
+3. Q003 | Budi -> Sinta | Menawarkan: Gitar | Meminta: Bahasa Inggris
+Front = permintaan paling awal, Rear = permintaan paling akhir.
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: 
+========== RIWAYAT AKSI (STACK / LIFO) ==========
+1. Barter Rani-Budi selesai  <-- TOP
+2. Skill Sinta ditambahkan
+3. Pengguna Dimas didaftarkan
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: Masukkan ID pengguna yang dicari: Pengguna ditemukan: Rani | Kontak: 081200000001
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: Data telah diurutkan berdasarkan ID untuk Binary Search.
+Masukkan ID pengguna yang dicari: Pengguna ditemukan: Dimas | Kontak: 081200000004
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: Permintaan terdepan sedang diproses:
+Q001 | Rani -> Budi
+Menawarkan: Desain Grafis | Meminta: Gitar
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: 
+========== ANTREAN PERMINTAAN BARTER (FIFO) ==========
+1. Q002 | Sinta -> Dimas | Menawarkan: Bahasa Inggris | Meminta: Python
+2. Q003 | Budi -> Sinta | Menawarkan: Gitar | Meminta: Bahasa Inggris
+Front = permintaan paling awal, Rear = permintaan paling akhir.
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: 
+========== RIWAYAT AKSI (STACK / LIFO) ==========
+1. Permintaan Q001 telah diproses  <-- TOP
+2. Barter Rani-Budi selesai
+3. Skill Sinta ditambahkan
+4. Pengguna Dimas didaftarkan
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: POP berhasil. Catatan terakhir dihapus dari stack: Permintaan Q001 telah diproses
+Catatan: POP pada progres ini menghapus catatan riwayat, belum membatalkan perubahan data pengguna/barter.
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: 
+========== RIWAYAT AKSI (STACK / LIFO) ==========
+1. Barter Rani-Budi selesai  <-- TOP
+2. Skill Sinta ditambahkan
+3. Pengguna Dimas didaftarkan
+
+==============================================
+             APLIKASI SKILLBARTER             
+       Aplikasi Barter Keterampilan C++       
+==============================================
+1.  Tampilkan seluruh pengguna (Array)
+2.  Tambah pengguna (Array of Struct)
+3.  Cari pengguna - Sequential Search
+4.  Cari pengguna - Binary Search
+5.  Tampilkan skill seorang pengguna (Linked List)
+6.  Tambah skill pengguna (Linked List)
+7.  Ajukan permintaan barter (Enqueue)
+8.  Tampilkan antrean barter (Queue)
+9.  Proses permintaan terdepan (Dequeue)
+10. Tampilkan riwayat aksi (Stack)
+11. Catat aksi baru (Push)
+12. Hapus catatan terakhir (Pop)
+0.  Keluar
+----------------------------------------------
+Pilih menu: Menutup SkillBarter...
